@@ -27,13 +27,7 @@ Init Geth:
 
 
 
-### Exemple
-'test exemple'
 
-#### Exemple
-'test exemple'
-
-### Exemple
 
 
 
