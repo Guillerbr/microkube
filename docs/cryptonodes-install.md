@@ -1,4 +1,4 @@
-#### Geth wallet Blockchain
+# Geth wallet Blockchain
 
 The geth image service cryptonode and daemon need to be started:
 
@@ -8,7 +8,7 @@ The geth image service cryptonode and daemon need to be started:
 
 * This will start the geth container call and its partial installation.
 
-### Now all commands need to use docker and docker-compose.
+# Now all commands need to use docker and docker-compose.
 
 Init Geth:
 
