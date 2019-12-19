@@ -6,7 +6,7 @@ The geth image service cryptonode and daemon need to be started:
 
 ```rake service: cryptonodes [start]```
 
-*This will start the geth container call and its partial installation.
+* This will start the geth container call and its partial installation.
 
 ### Now all commands need to use docker and docker-compose.
 
