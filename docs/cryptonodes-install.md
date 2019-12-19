@@ -19,9 +19,11 @@ Init Geth:
 
 ```docker run -it geth account new```
 
-## Create new account testnet Kovan
+## Account list:
 
-```docker run -it parity/parity:v2.5.11-stable --chain kovan```
+```docker run -it geth account list```
+
+
 
 
 
