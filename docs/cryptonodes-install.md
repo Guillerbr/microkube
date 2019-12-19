@@ -8,18 +8,18 @@ The geth image service cryptonode and daemon need to be started:
 
 * This will start the geth container call and its partial installation.
 
-#### Now all commands need to use docker and docker-compose.
+##### Now all commands need to use docker and docker-compose.
 
-## Init Geth:
+#### Init Geth:
 
 ```docker run -it geth```
 
 
-## Create new main eth account:
+#### Create new main eth account:
 
 ```docker run -it geth account new```
 
-## Account list:
+#### Account list:
 
 ```docker run -it geth account list```
 
@@ -28,6 +28,14 @@ The geth image service cryptonode and daemon need to be started:
 
 
 
+
+
+
+
+
+## References
+
+* https://geth.ethereum.org/docs/
 
 
 
